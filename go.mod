@@ -5,7 +5,7 @@ go 1.22.2
 require (
 	github.com/go-ozzo/ozzo-validation v3.6.0+incompatible
 	github.com/julienschmidt/httprouter v1.3.0
-	github.com/stretchr/testify v1.9.0
+	github.com/stretchr/testify v1.10.0
 )
 
 require (
